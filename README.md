@@ -1,5 +1,5 @@
 ### Hi there 👋
- - name：GuangJian Gong
+ - Name：GuangJian Gong
  - 学习方向：java工程师
- - emila：2690910127@qq.com
+ - Email：2690910127@qq.com/ggj721@qq.com
 
